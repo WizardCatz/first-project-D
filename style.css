@@ -1,0 +1,81 @@
+body {
+    background-color: #bfe2bf;
+    border: 4px solid black;
+    font-family: cursive
+  }
+  img{
+    float: right;
+    border-radius: 75px;
+    border-style:double;
+    border-color: aquamarine;
+    width: 160px;
+    height:110px;
+    border-width: 4px;
+  }
+  h1 {
+    font-weight: bold;
+    text-align: center;
+    color: #6c9579;
+    border: 4px  black;
+    background-image: url("Background.jpg");
+  }
+  h3 {
+    font-size: 21px;
+  }
+  li {
+    font-weight:bold;
+    font-family: cursive;
+    margin-left: 25px;
+  }
+  .img-source {
+    font-style: italics;
+    font-size: 12px
+  }
+  .home {
+    background-color: #d5ff97;
+    border: 5px dotted #b6f852;
+    width: 1050px;
+    color: #70a125;
+  }
+  .whycare {
+    background-color: #f0a9a9;
+  border: 5px dotted #c23030;
+  width: 1050px;
+  color: #872222;
+}
+.statistics {
+  background-color: #a9cbf0;
+  border: 5px dotted #4080c5;
+  width: 1050px;
+  color: #254c76;
+}
+.strayanimals {
+  background-color: #f6ce73;
+  border: 5px dotted #c29111;
+  width: 1050px;
+  color: #254c76;
+}
+.waystohelp {
+  background-color: #f7ff71;
+  border: 5px dotted #b3ba3c;
+  width: 1050px;
+  color: #005dc2;
+}
+.goals {
+  background-color: #d0a9f0;
+  border: 5px dotted #4080c5;
+  width: 1050px;
+  color: #254c76;
+}
+.finalthoughts {
+  background-color: #f0a9dc;
+  border: 5px dotted #7a40c5;
+  width: 1050px;
+  color: #254c76;
+}
+#link {
+  background-color: #c5f0a9;
+  border: 5px dashed #eef50f;
+  width: 1050px;
+  color: #c400f4;
+}
